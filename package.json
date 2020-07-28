@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/hwhh/apollo-cache-eviction#readme",
   "dependencies": {
+    "@react-native-community/async-storage": "^1.11.0",
+    "apollo-cache": "^1.3.5",
     "priorityqueuejs": "^2.0.0"
   }
 }
